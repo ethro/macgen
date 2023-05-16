@@ -1,0 +1,11 @@
+## Interface: 100002
+## Author: azman
+## Version: 0.1
+## Title: |cff4beb2cmacgen|r
+## RequiredDeps: ElvUI
+## DefaultState: enabled
+## SavedVariablesPerCharacter: macgen_vars
+
+Init.lua
+
+Core\load_core.xml
